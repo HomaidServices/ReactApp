@@ -1,8 +1,8 @@
-
-import Footer from "./Footer/footer";
+import Footer from "./Footer/Footer"; 
+import Whatsapp from "./Whatsapp/Whatsapp"; 
 import "./privacyPolicy.css";
-import Whatsapp from "./Whatsapp/whatsapp";
-import LoginNavbar from "/src/components/Navbar/LoginNavbar.jsx"; 
+import LoginNavbar from "/src/components/Navbar/LoginNavbar.jsx";
+
 
 const PrivacyPolicy = () => {
   return (
