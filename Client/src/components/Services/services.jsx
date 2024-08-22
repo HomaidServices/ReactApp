@@ -5,7 +5,7 @@ import "slick-carousel/slick/slick-theme.css";
 import "/src/components/Services/services.css";
 
 const Services = () => {
-  const [isVisible, setIsVisible] = useState(false);
+  const [, setIsVisible] = useState(false);
   const servicesRef = useRef(null);
 
   useEffect(() => {
